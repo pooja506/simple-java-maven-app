@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App
 {
-
+//This is my assignment of Maven,Name:Puja Neupane,c0935301
     private final String message = "Hello World!";
 
     public App() {}
